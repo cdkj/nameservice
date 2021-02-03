@@ -11,8 +11,8 @@ require (
 	github.com/cosmos/cosmos-sdk v0.33.0
 	github.com/cosmos/go-bip39 v0.0.0-20180618194314-52158e4697b8
 	github.com/cosmos/ledger-cosmos-go v0.9.8
-	github.com/cdkj/nameservice v0.0.0
-	github.com/davecgh/go-spew v1.1.1
+    github.com/cdkj/nameservice v0.0.0-20210203174334-2ed9a68de504
+ 	github.com/davecgh/go-spew v1.1.1
 	github.com/ethereum/go-ethereum v1.8.23
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/go-kit/kit v0.8.0

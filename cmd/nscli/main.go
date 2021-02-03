@@ -19,9 +19,9 @@ import (
 	auth "github.com/cosmos/cosmos-sdk/x/auth/client/rest"
 	bankcmd "github.com/cosmos/cosmos-sdk/x/bank/client/cli"
 	bank "github.com/cosmos/cosmos-sdk/x/bank/client/rest"
-	app "github.com/cdkj/nameservice"
-	nsclient "github.com/cdkj/nameservice/x/nameservice/client"
-	nsrest "github.com/cdkj/nameservice/x/nameservice/rest"
+	app "nameservice"
+	nsclient "nameservice/x/nameservice/client"
+	nsrest "nameservice/x/nameservice/rest"
 )
 
 const (
